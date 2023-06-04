@@ -1,0 +1,8 @@
+Please run the python file using the following command:
+python3 cyclesim.py 
+
+It will prompt the user to enter the directory where the input files ("dmem.txt" and "imem.txt") are located.
+
+Once the execution completes, the output files are generated in the same directory.
+
+There are no additional requirements for the execution.
